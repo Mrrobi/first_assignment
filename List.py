@@ -43,5 +43,3 @@ my_list = ['john', 'doe', 'jane']
 my_list.sort() # ['doe', 'jane', 'john']
 
 # lexographical sort
-
-# change
